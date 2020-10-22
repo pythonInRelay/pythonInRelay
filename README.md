@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 
 
 ## G'day 👋
-I’ve been a busy biologist👨🏻‍🔬, consultant👨‍💼, developer👨‍💻 and avid game designer🎮.
+I’ve been a busy biologist👨🏻‍🔬, consultant👨‍💼, developer👨‍💻 and avid game designer🎮
 
-I was born in a rainforest🌲 and feel more at home there than anywhere else.
-I have one degree in CompSci🖥️ & Business🏢 and another in Environmental Science🍃 & Engineering⚙️.
+I was born in a rainforest🌲 and feel more at home there than anywhere else
+
+I have one degree in CompSci🖥️ & Business🏢 and another in Environmental Science🍃 & Engineering⚙️
 
 ## Some of my Github Stats
 ![](https://komarev.com/ghpvc/?username=pythoninrelay&style=flat-square) <sub><sup>counter started 22/10/20</sup></sub>
