@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 ## G'day 👋
 I’ve been a busy biologist👨🏻‍🔬, consultant👨‍💼, developer👨‍💻 and avid game designer🎮
+
 I have one degree in CompSci🖥️ & Business🏢 and another in Environmental Science🍃 & Engineering⚙️
 
 - 💬 Ask me about working for you 😃
