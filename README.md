@@ -34,8 +34,8 @@ I have one degree in CompSci🖥️ & Business🏢 and another in Environmental 
 
 ## Some of my Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=pythoninrelay&show_icons=true&theme=radical&count_private=true)
 ![](https://komarev.com/ghpvc/?username=pythoninrelay&style=flat-square) <sub><sup>counter started 22/10/20</sup></sub>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pythoninrelay&layout=compact)](https://github.com/pythoninrelay/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=pythoninrelay&show_icons=true&theme=radical&count_private=true&hide=prs,issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pythoninrelay&layout=compact&theme=radical)](https://github.com/pythoninrelay/github-readme-stats)
 
