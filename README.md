@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 
 ## G'day 👋
-I’ve been a busy biologist👨🏻‍🔬, consultant👨‍💼, developer👨‍💻 and avid game designer🎮
+- I’ve been a busy biologist👨🏻‍🔬, consultant👨‍💼, developer👨‍💻 and avid game designer🎮
+- I have one degree in CompSci🖥️ & Business🏢 and another in Environmental Science🍃 & Engineering⚙️
 
-I was born in a rainforest🌲 and feel more at home there than anywhere else
-
-I have one degree in CompSci🖥️ & Business🏢 and another in Environmental Science🍃 & Engineering⚙️
+- 💬 Ask me about working for you 😃
+- 🌱 I’m currently learning DevOps! 🤖
 
 ## Languages and Tools I Use
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
