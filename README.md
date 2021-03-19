@@ -19,7 +19,6 @@ I’ve been a busy biologist👨🏻‍🔬, consultant👨‍💼, developer�
 
 I have one degree in CompSci🖥️ & Business🏢 and another in Environmental Science🍃 & Engineering⚙️
 
-- 💬 Ask me about working for you 😃
 - 🌱 I’m currently working with DevOps and Docker/K8s! 🤖🐳
 
 ## Languages and Tools I Use
